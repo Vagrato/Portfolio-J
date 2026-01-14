@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-row {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+}
