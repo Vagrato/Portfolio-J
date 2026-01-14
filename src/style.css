@@ -7,8 +7,16 @@
 .flex-row ul {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    
     padding: 1rem;
     background-color: black;
     color: white;
     list-style: none;
+}
+
+.nav-logo {
+    height: 40px;
+    width: auto;
+    display: block;
 }
