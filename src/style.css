@@ -4,19 +4,19 @@
     box-sizing: border-box;
 }
 
-.flex-row ul {
+.flex-row ul li {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
     padding: 1rem;
     background-color: black;
     color: white;
     list-style: none;
+    gap: 10px;
 }
 
 .nav-logo {
-    height: 40px;
+    height: 30px;
     width: auto;
-    display: block;
+    display: inline-block;
 }
