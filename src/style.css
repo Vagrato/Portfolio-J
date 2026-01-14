@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.flex-row ul li {
+.flex-row ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
